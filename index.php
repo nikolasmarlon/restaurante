@@ -38,6 +38,7 @@
           </li>
           <li class="nav-item">
             <a href="#contact" class="nav-link">Contato</a>
+            
           </li>
         </ul>
       </nav>      
