@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Rouge+Script&family=Source+Sans+Pro:wght@400;900&display=swap" rel="stylesheet">
-  <script src="https://unpkg.com/scrollreveal"></script>
+  
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -190,7 +190,7 @@
       </div>
     </div>
   </footer>
-
+  <script src="https://unpkg.com/scrollreveal"></script>
 <script src="script.js"></script>
 </body>
 </html>
